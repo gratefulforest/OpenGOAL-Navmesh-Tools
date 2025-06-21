@@ -1,13 +1,10 @@
 # OpenGOAL-Navmesh-Tools
-One-Click Monster Exporter for Jak 1
-
-![402267248-1b441d07-1e42-4123-b502-bb6d8ec1a33b](https://github.com/user-attachments/assets/8f2d9e89-1763-4f04-865b-75213dfe3c54)
+"One-Click" Monster Maker for Jak 1
 
 Features:
-- Do nothing but drag any shape to make an area monsters roam in.
-- Simply drag paths, paint jumps, or size spheres for obstacles.
-- Export complex set-ups instantly with one-click handling of all code.
-- Take no action except CTRL-V to see your monsters in game.
+- Do nothing but drag a shape to make an area monsters roam in.
+- Instant menus- take no action other than choose what you want.
+- Instant export- all happens in 1 second, do nothing but CTRL-V to see your monsters in game.
 
 Instructions:
 1. Install the Blender add-on.
