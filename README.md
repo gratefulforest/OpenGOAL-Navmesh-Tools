@@ -21,4 +21,4 @@ Behind the One-Click:
 - Fills out nav-spheres on navmesh's first actor.
 - Formats gap triangles.
 - Re-exports update old navmeshes, future exports don't conflict.
-- Prints all code in one click.
+- Handles everything in one click.
