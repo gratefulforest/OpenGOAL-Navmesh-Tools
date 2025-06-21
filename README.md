@@ -16,9 +16,9 @@ Behind the One-Click:
 - Supports untriangulated meshes.
 - Formats route tables.
 - Fills out monster paths.
-- Links monsters to nav-meshes.
+- Links monsters with nav-meshes.
 - Efficiently uses "nav-mesh-actor".
-- Formats nav-spheres on navmesh's first actors.
-- Re-exports update old navmesh, new ones don't conflict.
-- Fills out gap triangles.
+- Fills out nav-spheres on navmesh's first actor.
+- Formats gap triangles.
+- Re-exports update old navmeshes, future exports don't conflict.
 - Prints all code in one click.
