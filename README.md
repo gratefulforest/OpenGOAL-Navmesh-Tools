@@ -12,10 +12,13 @@ Instructions:
 3. Go to N-Panel and export.
 
 Behind the One-Click:
-- Cleans meshes to avoid hex limits.
+- Cleans navmesh to minimize hex limits.
+- Supports untriangulated meshes.
 - Formats route tables.
 - Fills out monster paths.
-- Links monster with nav-meshes.
+- Links monsters to nav-meshes.
 - Efficiently uses "nav-mesh-actor".
-- Fills out nav-spheres.
-- Formats jump triangles.
+- Formats nav-spheres on navmesh's first actors.
+- Re-exports update old navmesh, new ones don't conflict.
+- Fills out gap triangles.
+- Prints all code in one click.
