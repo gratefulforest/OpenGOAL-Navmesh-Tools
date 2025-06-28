@@ -1,6 +1,8 @@
 # OpenGOAL-Navmesh-Tools
 "One-Click" Monster Maker for Jak 1
 
+![2025-06-2817-05-33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5125c12d-e60c-4292-8ff6-e150484fafed)
+
 Features:
 - Do nothing but drag a shape to make an area monsters roam in.
 - Instant menus: Take no action other than decide what you want.
@@ -13,7 +15,7 @@ Instructions:
 
 Behind the One-Click:
 - Redraws your shape with minimum points.
-- Clear erroring for hex limits.
+- Clear info statements for hex limits.
 - Supports quads and triangles.
 - Correctly formats all monster path points.
 - Calculates route in bitpacked format.
@@ -22,4 +24,4 @@ Behind the One-Click:
 - Types out nav-spheres on navmesh's first actors.
 - Marks gap trianlges based on painted regions.
 - Re-exports update old navmeshes, future exports don't conflict.
-- Handles everything in a way that can be done in 1 click.
+- Handles everything in a way where 1 click generates all finished code.
