@@ -3,8 +3,8 @@
 
 Features:
 - Do nothing but drag a shape to make an area monsters roam in.
-- Instant menus- take no action other than choose what you want.
-- Instant export- all code formatted in 1 second, do nothing but CTRL-V to see your monsters in game.
+- Instant menus: Take no action other than decide what you want.
+- Instant export: All code formatted in 1 second, do nothing but CTRL-V to see your monsters in game.
 
 Instructions:
 1. Drag the .zip file on Blender.
@@ -12,13 +12,14 @@ Instructions:
 3. Go to right of 3D view and export.
 
 Behind the One-Click:
-- Cleans navmesh to avoid hex limits.
-- Supports untriangulated meshes.
-- Correctly fills out monster path points.
-- Fills out route table in bitpacked format.
-- Links monsters with nav-meshes.
-- Efficiently uses "nav-mesh-actor" lumps.
-- Formats nav-spheres on navmesh's first actors.
-- Marks gap triangles.
+- Redraws your shape with minimum points.
+- Clear erroring for hex limits.
+- Supports quads and triangles.
+- Correctly formats all monster path points.
+- Calculates route in bitpacked format.
+- Handles monster/nav-mesh relationships.
+- Uses "nav-mesh-actor" for secondary actors.
+- Types out nav-spheres on navmesh's first actors.
+- Marks gap trianlges based on painted regions.
 - Re-exports update old navmeshes, future exports don't conflict.
-- Working monsters in one click.
+- Handles everything in a way that can be done in 1 click.
