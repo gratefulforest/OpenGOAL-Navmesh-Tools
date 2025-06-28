@@ -17,8 +17,7 @@ Instructions:
 3. Go to right of 3D view and export.
 
 Behind the One-Click:
-- Redraws your shape with minimum points.
-- Clear info statements for hex limits.
+- Redraws meshes with minimum points to avoid hex limits.
 - Supports quads and triangles.
 - Correctly formats all monster path points.
 - Calculates route in bitpacked format.
