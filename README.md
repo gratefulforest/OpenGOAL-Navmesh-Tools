@@ -25,6 +25,6 @@ Behind the One-Click:
 - Handles monster/nav-mesh relationships.
 - Uses "nav-mesh-actor" for secondary actors.
 - Types out nav-spheres on navmesh's first actors.
-- Marks gap trianlges based on painted regions.
+- Marks gap triangles based on painted regions.
 - Re-exports update old navmeshes, future exports don't conflict.
-- Handles everything in a way where 1 click generates all finished code.
+- Handles everything in a way where 1 click generates all code.
