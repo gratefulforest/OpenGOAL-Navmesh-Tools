@@ -1,5 +1,8 @@
 # OpenGOAL-Navmesh-Tools
-"One-Click" Monster Maker for Jak 1
+
+![Static Badge](https://img.shields.io/badge/language-python-%23306998) ![Static Badge](https://img.shields.io/badge/language-opengoal-yellow) ![Static Badge](https://img.shields.io/badge/one%20click%20export-blue)
+
+**One-Click Monster Maker for Jak 1**
 
 ![2025-06-2817-05-33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5125c12d-e60c-4292-8ff6-e150484fafed)
 
