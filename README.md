@@ -27,4 +27,4 @@ Behind the One-Click:
 - Types out nav-spheres on navmesh's first actors.
 - Marks gap triangles based on painted regions.
 - Re-exports update old navmeshes, future exports don't conflict.
-- Handles everything in a way where 1 click generates all code.
+- Handles everything in a way where 1 click generates all finished code.
