@@ -17,13 +17,11 @@ Instructions:
 3. Go to right of 3D view and export.
 
 Behind the One-Click:
-- Draws navmesh with minimum points to avoid hex limits.
-- Supports quads and triangles.
 - Correctly formats all monster path points.
-- Calculates route in bitpacked format.
-- Handles monster/nav-mesh relationships.
-- Uses "nav-mesh-actor" for secondary actors.
-- Types out nav-spheres on navmesh's first actors.
-- Marks gap triangles based on painted regions.
+- Fills out route tables and bitpacks them.
+- Types out all nav-spheres on navmesh’s first actors.
+- Uses “nav-mesh-actor” for secondary actors.
+- Redraws navmesh with minimum points to avoid hex limits.
+- Fills out jump triangles based on painted regions.
 - Re-exports update old navmeshes, future exports don't conflict.
 - Handles everything in a way where 1 click generates all finished code.
